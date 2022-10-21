@@ -2,7 +2,7 @@
 - 👀 I’m interested in making free fivem scripts for everyone.
 - 🌱 I’m currently learning Lua.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=planeklm&theme=radical)
+![planeklm Stats](https://github-readme-stats.vercel.app/api?username=planeklm&theme=synthwave)
 
 <!---
 planeklm/planeklm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
