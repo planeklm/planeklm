@@ -2,7 +2,7 @@
 - 👀 I’m interested in making free fivem scripts for everyone.
 - 🌱 I’m currently learning Lua.
 
-![planeklm Stats](https://github-readme-stats.vercel.app/api?username=planeklm&&bg_color=25,0044FF,64B3F4)
+![planeklm Stats](https://github-readme-stats.vercel.app/api?username=planeklm&&bg_color=25,F2709C,FF9472)
 
 
 <!---
