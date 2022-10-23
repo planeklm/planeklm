@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @planeklm
 - 👀 I’m interested in making free fivem scripts for everyone.
 - 🌱 I’m currently learning Lua.
-- 🌍 My websites:
+* 🌍 My websites:
   * https://planeklm.github.io/ 
   * https://razed.tk/
-- 🌐 My Discord servers:
+* 🌐 My Discord servers:
   * Razed Scripts - https://discord.gg/7ZSMaE3NDR
   * Razed Network - https://discord.gg/VXFWjQghWU
   
