@@ -6,13 +6,13 @@
 -  If you like my work, please give it a ⭐!
 <details>
   <summary><h3>🌍 My websites</h3></summary>
-  https://planeklm.github.io/ /
+  https://planeklm.github.io/
   https://razed.tk/
 </details>
 
 <details>
   <summary><h3>🌐 My Discord servers</h3></summary>
-  * Razed Scripts - https://discord.gg/7ZSMaE3NDR
+  * Razed Scripts - https://discord.gg/7ZSMaE3NDR \
   * Razed Network - https://discord.gg/VXFWjQghWU
   </details>
  
