@@ -25,7 +25,7 @@
 
 <a href="http://www.github.com/planeklm"><img src="https://activity-graph.herokuapp.com/graph?username=planeklm&bg_color=0D1016&color=64748b&line=ff9472&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-![planeklm Repo](https://github-readme-stats.vercel.app/api/pin/?username=planeklm&repo=op-duty&title_color=ffffff&text_color=64748b&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en)
+![planeklm Repo](https://github-readme-stats.vercel.app/api/pin/?username=planeklm&repo=razed-toilet&title_color=ffffff&text_color=64748b&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en)
 
 <!---
 planeklm/planeklm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
