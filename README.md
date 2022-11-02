@@ -2,10 +2,11 @@
 - 👀 I’m interested in making free fivem scripts for everyone.
 - 🌱 I’m currently learning Lua.
 - 🎉 I own a FiveM server called Razed Network.
-<🌍 My websites>
+<details>
+  <summary><h3>⚒️ Languages and Tools</h3></summary>
   * https://planeklm.github.io/ 
   * https://razed.tk/
-</🌍 My websites>
+</details>
 
 * 🌐 My Discord servers:
   * Razed Scripts - https://discord.gg/7ZSMaE3NDR
