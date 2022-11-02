@@ -3,14 +3,16 @@
 - 🌱 I’m currently learning Lua.
 - 🎉 I own a FiveM server called Razed Network.
 <details>
-  <summary><h3>⚒️ Languages and Tools</h3></summary>
+  <summary><h3>🌍 My websites</h3></summary>
   * https://planeklm.github.io/ 
   * https://razed.tk/
 </details>
 
-* 🌐 My Discord servers:
+<details>
+  <summary><h3>🌐 My Discord servers</h3></summary>
   * Razed Scripts - https://discord.gg/7ZSMaE3NDR
   * Razed Network - https://discord.gg/VXFWjQghWU
+  </details>
  
 -  If you like my work, please give it a ⭐!
 
