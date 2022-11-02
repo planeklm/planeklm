@@ -6,8 +6,8 @@
 -  If you like my work, please give it a ⭐!
 <details>
   <summary><h3>🌍 My websites</h3></summary>
-  * https://planeklm.github.io/ 
-  * https://razed.tk/
+  - https://planeklm.github.io/ 
+  - https://razed.tk/
 </details>
 
 <details>
