@@ -12,7 +12,7 @@
     * Razed Scripts - https://discord.gg/7ZSMaE3NDR
     * Razed Network - https://discord.gg/VXFWjQghWU
 
- -  📜 My Resources
+ *  📜 My Resources
  - [X] Tesla
  - [X] Toilet
  - [X] Mystery Box
