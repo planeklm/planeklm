@@ -16,6 +16,10 @@
 
 ![planeklm Stats](https://github-readme-stats.vercel.app/api?username=planeklm&bg_color=25,F2709C,FF9472&text_color=ffffff&title_color=ffffff&hide_border=true)
 
+![planeklm Stats](https://github-readme-stats.vercel.app/api?username=planeklm&show_icons=true&locale=en&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+
+
+
 <a href="http://www.github.com/planeklm"><img src="https://activity-graph.herokuapp.com/graph?username=planeklm&bg_color=0D1016&color=64748b&line=ff9472&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!---
