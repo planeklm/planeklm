@@ -11,7 +11,7 @@
 -  🌐 My Discord servers
     * Razed Scripts - https://discord.gg/7ZSMaE3NDR
     * Razed Network - https://discord.gg/VXFWjQghWU
-    * 
+    
 ![planeklm Stats](https://github-readme-stats.vercel.app/api?username=planeklm&bg_color=0D1016&text_color=ffffff&title_color=ff9472&hide_border=true)
 
 ![planeklm Stats](https://github-readme-stats.vercel.app/api/top-langs?username=planeklm&show_icons=true&locale=en&layout=compact&title_color=ff9472&bg_color=0D1016&text_color=ffffff&hide_border=true)
