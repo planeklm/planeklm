@@ -16,7 +16,7 @@
 
 ![planeklm Stats](https://github-readme-stats.vercel.app/api?username=planeklm&bg_color=25,F2709C,FF9472&text_color=ffffff&title_color=ffffff&hide_border=true)
 
-![planeklm Stats](https://github-readme-stats.vercel.app/api/top-langs?username=planeklm&show_icons=true&locale=en&layout=compact&title_color=ff652f&bg_color=25,F2709C,FF9472&text_color=ffffff&hide_border=true)
+![planeklm Stats](https://github-readme-stats.vercel.app/api/top-langs?username=planeklm&show_icons=true&locale=en&layout=compact&title_color=ffffff&bg_color=25,F2709C,FF9472&text_color=ffffff&hide_border=true)
 
 
 
