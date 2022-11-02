@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Lua.
 - 🎉 I own a FiveM server called Razed Network.
 
--  If you like my work, please give it a ⭐!
 - [X] Make free scripts.
 
 -  🌍 My websites
