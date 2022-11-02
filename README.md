@@ -12,7 +12,7 @@
 
 <details>
   <summary><h3>🌐 My Discord servers</h3></summary>
-  * Razed Scripts - https://discord.gg/7ZSMaE3NDR \
+  * Razed Scripts - https://discord.gg/7ZSMaE3NDR fgfdggd\
   * Razed Network - https://discord.gg/VXFWjQghWU
   </details>
  
