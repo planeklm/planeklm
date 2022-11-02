@@ -4,11 +4,10 @@
 - 🎉 I own a FiveM server called Razed Network.
 
 -  If you like my work, please give it a ⭐!
-<details>
-  <summary><h3>🌍 My websites</h3></summary>
-  https://planeklm.github.io/
-  https://razed.tk/
-</details>
+
+  <h3>🌍 My websites</h3>
+  * https://planeklm.github.io/
+  * https://razed.tk/
 
 <details>
   <summary><h3>🌐 My Discord servers</h3></summary>
