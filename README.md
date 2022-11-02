@@ -9,11 +9,10 @@
     * https://planeklm.github.io/
     * https://razed.tk/
 
-<details>
-  <summary><h3>🌐 My Discord servers</h3></summary>
-  * Razed Scripts - https://discord.gg/7ZSMaE3NDR fgfdggd\
-  * Razed Network - https://discord.gg/VXFWjQghWU
-  </details>
+-  🌐 My Discord servers
+    * Razed Scripts - https://discord.gg/7ZSMaE3NDR fgfdggd\
+    * Razed Network - https://discord.gg/VXFWjQghWU
+
  
 
 
