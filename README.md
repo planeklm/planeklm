@@ -4,13 +4,14 @@
 - 🎉 I own a FiveM server called Razed Network.
 
 -  If you like my work, please give it a ⭐!
+- [X] Make free scripts.
 
 -  🌍 My websites
     * https://planeklm.github.io/
     * https://razed.tk/
 
 -  🌐 My Discord servers
-    * Razed Scripts - https://discord.gg/7ZSMaE3NDR fgfdggd\
+    * Razed Scripts - https://discord.gg/7ZSMaE3NDR
     * Razed Network - https://discord.gg/VXFWjQghWU
 
  
