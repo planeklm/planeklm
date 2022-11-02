@@ -2,16 +2,16 @@
 - 👀 I’m interested in making free fivem scripts for everyone.
 - 🌱 I’m currently learning Lua.
 - 🎉 I own a FiveM server called Razed Network.
-* 🌍 My websites:
+<🌍 My websites>
   * https://planeklm.github.io/ 
   * https://razed.tk/
-  <details>
+</🌍 My websites>
+
 * 🌐 My Discord servers:
   * Razed Scripts - https://discord.gg/7ZSMaE3NDR
   * Razed Network - https://discord.gg/VXFWjQghWU
-  <details>
+ 
 -  If you like my work, please give it a ⭐!
-</details>
 
 
 ![planeklm Stats](https://github-readme-stats.vercel.app/api?username=planeklm&bg_color=25,F2709C,FF9472&text_color=ffffff&title_color=ffffff&hide_border=true)
