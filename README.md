@@ -5,7 +5,7 @@
 
 -  If you like my work, please give it a ⭐!
 
-  <h3>🌍 My websites</h3>
+-  🌍 My websites
 -  https://planeklm.github.io/
 -  https://razed.tk/
 
