@@ -1,4 +1,3 @@
-![StratosphereBannerComingSoon](https://user-images.githubusercontent.com/91488137/201443694-2a3f7e3a-6de8-4d1b-9013-7305a6818c6b.png)
 - 👋 Hi, I’m @planeklm
 - 👀 I’m interested in making free fivem scripts for everyone.
 - 🌱 I’m currently learning Lua.
