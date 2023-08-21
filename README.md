@@ -1,6 +1,6 @@
 ![banner](https://github.com/planeklm/planeklm/assets/91488137/a206fb3d-013f-4f2f-b734-0ad4a80c944b)
-![banner2](https://github.com/planeklm/planeklm/assets/91488137/15c6040e-0d33-469a-a19c-e57632873de1)
-![RazedBot](https://github.com/planeklm/planeklm/assets/91488137/f25f4e03-660e-47e4-8cbe-42104e9de49a)
+![banner2](https://github.com/planeklm/planeklm/assets/91488137/bf535b20-8f56-491c-9479-72767690e3ed)
+![banner3](https://github.com/planeklm/planeklm/assets/91488137/630c34f8-43f5-4329-b46c-f26dd768e119)
 
 -  🌍 My websites
     * https://planeklm.github.io/
