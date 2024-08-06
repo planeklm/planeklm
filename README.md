@@ -3,7 +3,6 @@
 ![banner3](https://github.com/planeklm/planeklm/assets/91488137/630c34f8-43f5-4329-b46c-f26dd768e119)
 ![banner4](https://github.com/planeklm/planeklm/assets/91488137/21a9acb7-dcb5-4cd1-9fec-5fe1a9a9aa22)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/planeklm)
 <!---
 
 -  🌍 My websites
