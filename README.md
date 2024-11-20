@@ -1,7 +1,4 @@
-![banner1](https://github.com/planeklm/planeklm/assets/91488137/1cfca5e1-5b94-4cc4-91c5-cbdefb10df3a)
-![banner2](https://github.com/planeklm/planeklm/assets/91488137/bf535b20-8f56-491c-9479-72767690e3ed)
-![banner3](https://github.com/planeklm/planeklm/assets/91488137/630c34f8-43f5-4329-b46c-f26dd768e119)
-
+![logo](https://github.com/user-attachments/assets/eb7c5e34-11a6-40a8-a2d6-1c28779725fb)
 <!---
 
 -  🌍 My websites
